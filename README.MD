@@ -4,6 +4,8 @@ Built with love.
 
 个人交流群：https://discord.gg/5eup2fzRB，如果链接挂了可以私聊我 lamadaemon (Lama3L9R#4650)
 
+有些时候dc看不到我人捏可以来我的tg频道找我：t.me/alpbroadcastd
+
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
@@ -14,6 +16,8 @@ Built with love.
 开源的世界线变动率探测仪复刻，参考了 https://nixieclock.org/ 大佬的设计，整个项目采用5张电路板完成，总成本大约不到 8000 CNY 。
 
 部分资料暂时并不会放出来，因为还在整理中，请给我一些时间。这其中包括剩余的三张电路板的原理图和生产文件、BOM表、控制板程序的固件、电源板程序固件。固件采用 rust 编写，然而我的 rust 技术并不是很好，所以可能需要更多时间才会放出所有内容（现在不敢放出来，太丢人了）。由于我人已经出国留学，在国外继续更新、验证、修改等非常不便，所以控制板 1.2 和电源板 2.2 版本的改动未经过测试。由于改动仅为一些很小的bugfix，并不会很影响核心功能。核心功能在我飞机的前一天验证通过。固件我还是会持续更新测试。
+
+**Update: 至于为什么都三个月了还是没放出来，主要是因为我懒了，固件新功能还没做，代码也没整理，以及我账号下的 divergence-meter-firmware 是老版本设计（第二版设计）的固件不能使用**
 
 
 > **仅仅为了制作此项目，0基础入门电子，两年，终于抵达了镜界面上的命运石之门。**
