@@ -21,6 +21,8 @@ Built with love.
 
 **Update: 至于为什么都半年了还是没有放出来，主要是因为我懒了，固件新功能还没做，代码也没整理。**
 
+**Update: [固件](https://github.com/Lama3L9R/oss-divergence-meter-fw-archive) | 为什么 Archive？是不维护了吗？非也！我也不知道为什么我选择用 esp-idf-hal，这玩意儿虽然有 std 支持，但是文档是真的少，研究了这么久，我也没搞定 32.768 和 wifi，所以我打算用 C 或者 rust 重写，如果我用 rust，那么我会考虑用 esp-hal 而不是 esp-idf-hal**
+
 > **仅仅为了制作此项目，0基础入门电子，两年，终于抵达了镜界面上的命运石之门。**
 
 ## 结构
